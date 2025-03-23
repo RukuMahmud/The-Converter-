@@ -38,4 +38,10 @@
 
 ---
 
+📤 Export to CSV
+The app allows you to export all converted unit values to a .csv file with a single click.
+Simply use the "Save as CSV" button after entering your value.
+A CSV file will be generated containing each unit and its corresponding converted value, making it easy to store, share, or use in Excel or other data tools.
+
+---
 This tool is perfect for engineers, designers, students, or anyone needing a fast, multi-unit converter with an elegant interface.
